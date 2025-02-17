@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 - 🎓 **Education**: 아주대학교 소프트웨어학과 주전공 & 인공지능학과 마이크로전공
-- 📚 **Current Learning**: 네이버 부스트캠프 AI Tech 7기 수강 중 (2024.08 ~ 2025.02)
+- 📚 **Current Learning**: 네이버 부스트캠프 AI Tech 7기 수료 (2024.08 ~ 2025.02)
 - 💼 **Specialties**: NLP, 머신러닝, 데이터 분석
 - 💬 **Focus Areas**:
   - 자연어 처리(NLP)
